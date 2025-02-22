@@ -1,11 +1,10 @@
 # iNotebook - Full-Stack Note-Taking Application
 Built a full-stack note-taking app with MERN stack, implementing JWT authentication.
-Designed responsive UI with React, integrated RESTful APIs, and used Context API for state 
-management.
+Designed responsive UI with React, integrated RESTful APIs, and used Context API for state management.
 Ensured secure data handling with Bcrypt.js for password encryption.
 
 # Technology used 
- MERN, JWT, Bcrypt.js, Tailwind CSS, Axios 
+### `MERN, JWT, Bcrypt.js, Tailwind CSS, Axios`
 
 # Getting Started with Create React App
 
