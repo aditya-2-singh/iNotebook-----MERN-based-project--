@@ -7,9 +7,6 @@ Ensured secure data handling with Bcrypt.js for password encryption.
 # Technology used 
  MERN, JWT, Bcrypt.js, Tailwind CSS, Axios 
 
-# For run this website backend and frontend 
-npm run both
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -18,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run both`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
