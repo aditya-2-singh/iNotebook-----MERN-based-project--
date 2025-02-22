@@ -1,4 +1,5 @@
-# for run this website backend and frontend 
+# For run this website backend and frontend 
+npm run both
 
 # Getting Started with Create React App
 
